@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Name]
+      ,[Gender]
+      ,[Salary]
+      ,[City]
+  FROM [University].[dbo].[tblEmployee]
